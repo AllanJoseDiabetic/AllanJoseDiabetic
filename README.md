@@ -82,11 +82,6 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 <br><br>
 
-<img
-  width="97%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AllanJoseDiabetic&theme=dracula&hide_border=true"
-  alt="Gráfico de contribuições"
-/>
 
 </div>
 
