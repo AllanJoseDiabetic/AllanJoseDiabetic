@@ -17,7 +17,7 @@
   </p>
 
   <img
-    src="https://komarev.com/ghpvc/?username=diabetico2&color=6f42c1&style=for-the-badge&label=VISITAS+AO+PERFIL"
+    src="https://komarev.com/ghpvc/?username=AllanJoseDiabetic&color=6f42c1&style=for-the-badge&label=VISITAS+AO+PERFIL"
     alt="Visitas ao perfil"
   />
 
@@ -56,10 +56,10 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 ### Atualmente estudando
 
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 
 </div>
 
@@ -67,22 +67,26 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 <div align="center">
 
-  <h2>📊 Estatísticas do GitHub</h2>
+## 📊 Estatísticas do GitHub
 
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=AllanJoseDiabetic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  alt="Estatísticas do GitHub"
+/>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanJoseDiabetic&layout=compact&theme=dracula"
+  alt="Linguagens mais utilizadas"
+/>
 
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diabetico2&theme=dracula"
-    alt="Linguagens mais utilizadas"
-  />
+<br><br>
 
-  <br><br>
-
-  <img
-    width="97%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diabetico2&theme=dracula"
-    alt="Resumo das contribuições"
-  />
+<img
+  width="97%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AllanJoseDiabetic&theme=dracula&hide_border=true"
+  alt="Gráfico de contribuições"
+/>
 
 </div>
 
